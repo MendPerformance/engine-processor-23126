@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: NodeGoat
-  namespace: mend-crest-data
+  name: engine-processor-23126
+  namespace: MendPerformance
   annotations:
-    github.com/project-slug: mend-crest-data/NodeGoat
+    github.com/project-slug: MendPerformance/engine-processor-23126
 spec:
   type: service
   lifecycle: unknown
